@@ -1,39 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-	<rss version="2.0" xmlns:atom="<http://www.w3.org/2005/Atom>" xmlns:itunes="<http://www.itunes.com/dtds/podcast-1.0.dtd>">
-
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 		<channel>
-
 			<title>民法典之婚姻家庭编</title>
-
 			<link></link>
-
 			<description>民法典之婚姻家庭编法条解读</description>
-
 			<language>zh-cn</language>
-
 			<image>
-
-				<url><https://android-artworks.25pp.com/fs08/2021/11/23/9/110>_0cc601f3d1b5a8de567f2cfd7868ea57_con_130x130.png</url>
-
+				<url>https://android-artworks.25pp.com/fs08/2021/11/23/9/110_0cc601f3d1b5a8de567f2cfd7868ea57_con_130x130.png</url>
 				<title>民法典之婚姻家庭编</title>
-
 			</image>
-
 			<item>
-
-				<title>婚姻家庭编第1109条</title>
-
-				<description>婚姻家庭编第1109条</description>
-
+				<title>婚姻家庭编第1100条.</title>
+				<description>婚姻家庭编第1100条.</description>
 				<pubDate>Thu, Dec 30 2021 13:28:28 +0800</pubDate>
-
-				<enclosure length="21150" type="audio/mpeg" url="http://cdn.lizhi.fm/audio/2017/04/03/2594167559366879750_hd.mp3"/>
-
+				<enclosure length="3729089" type="audio/m4a" url="https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=2585053984305741830&podcastId=5148188323456021631"/>
 				<itunes:image href="https://android-artworks.25pp.com/fs08/2021/11/23/9/110_0cc601f3d1b5a8de567f2cfd7868ea57_con.png"/>
-
 			</item>
-
 		</channel>
-
   </rss>
