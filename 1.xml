@@ -1,20 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-        <channel>
-            <title>民法典之婚姻家庭编</title>
-            <link></link>
-            <description>民法典之婚姻家庭编法条解读</description>
-            <language>zh-cn</language>
-            <image>
-                <url>https://android-artworks.25pp.com/fs08/2021/11/23/9/110_0cc601f3d1b5a8de567f2cfd7868ea57_con_130x130.png</url>
-                <title>民法典之婚姻家庭编</title>
-            </image>
-            <item>
-                <title>婚姻家庭编第1109条</title>
-                <description>婚姻家庭编第1109条</description>
-                <pubDate>Thu, Dec 30 2021 13:28:28 +0800</pubDate>
-                <enclosure length="21150" type="audio/mp3" url="https://dlink.host/musics/aHR0cHM6Ly9vbmVkcnYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3Rvcl9vbmVkcnZfb25taWNyb3NvZnRfY29tL0VkQy1wM25JS3N0TnNUVURfZUtTMlE4QlpGdEtmZVI4RkZKc2tHRS1Yam1UUnc.mp3"/>
-                <itunes:image href="https://android-artworks.25pp.com/fs08/2021/11/23/9/110_0cc601f3d1b5a8de567f2cfd7868ea57_con.png"/>
-            </item>
-        </channel>
-  </rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Dafna 的斑马饲养播客</title>
+    <itunes:author>Dafna</itunes:author>
+    <description>一个宠物主人关于饲养人气条纹马的指南</description>
+    <language>zh-cn</language>
+    <item>
+      <title>关于饲养斑马的十大误区</title>
+      <description>这里介绍了关于照顾、喂养和繁殖可爱条纹动物的十大误区。</description>
+      <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://dlink.host/musics/aHR0cHM6Ly9vbmVkcnYtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvc3Rvcl9vbmVkcnZfb25taWNyb3NvZnRfY29tL0VkQy1wM25JS3N0TnNUVURfZUtTMlE4QlpGdEtmZVI4RkZKc2tHRS1Yam1UUnc.mp3" type="audio/mpeg" length="21150"/>
+      <itunes:duration>00:02</itunes:duration>
+      <guid isPermaLink="false">dzpodtop10</guid>
+    </item>
+  </channel>
+</rss>
